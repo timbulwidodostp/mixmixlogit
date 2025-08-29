@@ -1,4 +1,15 @@
-D 'DEA': Data envelopment analysis
+D 'mixmixlogit': Mixed-Mixed Multinomial Logit Models (also known as Latent Class Mixed Logit or Mixture-of-Normals Logit) Use mixmixlogit With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F fmlogit_pr.ado
+F lclogit.ado
+F lclogit.sthlp
+F lclogit_postestimation.sthlp
+F lclogitcov.ado
+F lclogitcov.sthlp
+F lclogitml.ado
+F lclogitml.sthlp
+F lclogitpr.ado
+F lclogitpr.sthlp
+F mixmixlogit.ado
+F mixmixlogit.sthlp
+F mixmixlogit_d1.ado
